@@ -7,7 +7,7 @@ var obj = [
 	{ 'e': 'reflected back', 'v': 'phản ánh lại' },
 	{ 'e': 'reference methob', 'v': 'phương thức tham chiếu' },
 	{ 'e': 'cat not passed to', 'v': 'không thể truyền tới' },
-	{ 'e': 'value methob', 'v': 'phương thứ tham trị' },
+	{ 'e': 'value methob', 'v': 'phương thức tham trị' },
 	{ 'e': 'subprogram', 'v': 'trương trình con' },
 	{ 'e': 'consist', 'v': 'bao gồm' },
 	{ 'e': 'statement', 'v': 'câu lệnh' },
