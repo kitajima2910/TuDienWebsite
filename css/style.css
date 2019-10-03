@@ -1,0 +1,14 @@
+.title {
+	text-align: center;
+	color: brown;
+}
+  
+.input-text { 
+	text-align: center;
+}
+
+.result {
+	color: blue;
+	font-size: 5vw;
+	text-align: center;
+}
