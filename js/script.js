@@ -180,6 +180,17 @@ var obj = [
 	{ 'e': 'occurrence of ', 'v': 'sự xuất hiện của' },
 	{ 'e': 'happen', 'v': 'xảy ra' },
 	{ 'e': 'exceeds', 'v': 'xảy vượt qua' },
+	{ 'e': 'text blocks over image', 'v': 'khống văn bản trên hình ảnh' },
+	{ 'e': 'the schematics', 'v': 'các sơ đồ' },
+	{ 'e': 'someone', 'v': 'vài người' },
+	{ 'e': 'recently', 'v': 'gần đây' },
+	{ 'e': 'this technique', 'v': 'kỹ thuật này' },
+	{ 'e': 'my first reaction', 'v': 'phản ứng đầu tiên của tôi' },
+	{ 'e': 'probably', 'v': 'có lẽ' },
+	{ 'e': 'is actually', 'v': 'thật sự là' },
+	{ 'e': 'interesting', 'v': 'hấp dẫn' },
+	{ 'e': 'interested', 'v': 'quan tâm' },
+	{ 'e': 'screenshot', 'v': 'ảnh chụp màn hình' },
 ];
 
 
